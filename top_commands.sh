@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # List of commands you use most often
 # @author linux_china
 
