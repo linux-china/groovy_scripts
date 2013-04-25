@@ -1,4 +1,3 @@
 groovy_scripts
 ==============
-
-groovy scripts
+Groovy & Bash useful scripts
