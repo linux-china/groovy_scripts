@@ -7,4 +7,4 @@ Groovy & Bash useful scripts for work
 * hello.groovy: hello
 * java_info: Display Java information
 * top_commands.sh: List of commands you use most often
-* myip.sh: display my internet ip
+* myip.sh: display my external ip
