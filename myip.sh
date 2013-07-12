@@ -4,4 +4,4 @@
 # @author linux_china
 
 curl ip.mvnsearch.org
-echho ""
+echo ""
